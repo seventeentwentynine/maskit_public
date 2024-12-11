@@ -1,5 +1,7 @@
 ## maskit_public
-Public facing release of the maskit plugin and the model developed during CMPT415 Fall 2024
+Public facing (early) release of the maskit plugin and the model developed during CMPT415 Fall 2024
+
+Currently the model is under testing and should be used cautiously. We have tested this on the Politifact dataset and achieved approximately 77% F1 score.
 
 ### Loading a Plugin in Firefox Using about:debugging
 ### Prerequisites
@@ -22,5 +24,3 @@ Public facing release of the maskit plugin and the model developed during CMPT41
    - Once the plugin is loaded, it will appear in the list of Temporary Extensions on the `about:debugging` page.
 
 Finetuned model is available at [https://huggingface.co/maskitplugin/maskitmodel](https://huggingface.co/maskitplugin/maskitmodel)
-
-Currently the model is under testing and should be used cautiously. We have tested this on the Politifact dataset and achieved approximately 77% F1 score.
