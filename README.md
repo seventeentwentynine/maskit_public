@@ -1,5 +1,8 @@
 ## maskit_public
-Initial release of the maskit plugin and the model developed during CMPT415 Fall 2024
+### CMPT 415/416 Special Research Project 
+### Carried out under Dr. Nicholas Vincent
+
+Initial release of the maskit plugin and the model developed during Special Research Project Course CMPT415 Fall 2024
 
 Model is available at [https://huggingface.co/maskitplugin/maskitmodel](https://huggingface.co/maskitplugin/maskitmodel)
 
