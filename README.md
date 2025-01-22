@@ -1,6 +1,7 @@
-## maskit_public
+## MASKIT Plugin 
 ### CMPT 415/416 Special Research Project 
 ### Carried out under Dr. Nicholas Vincent
+### Simon Fraser University
 
 Initial release of the maskit plugin and the model developed during Special Research Project Course CMPT415 Fall 2024
 
