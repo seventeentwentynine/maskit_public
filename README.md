@@ -7,7 +7,7 @@ Initial release of the maskit plugin and the model developed during Special Rese
 
 Model is available at [https://huggingface.co/maskitplugin/maskitmodel](https://huggingface.co/maskitplugin/maskitmodel)
 
-Currently the model is under testing and should be used cautiously. We have tested this on the Politifact dataset and achieved approximately 77% F1 score.
+Currently the model is under testing and should be used cautiously. It has been tested this on the Politifact dataset and achieved approximately 77% F1 score.
 
 ### Loading a Plugin in Firefox Using about:debugging
 ### Prerequisites
